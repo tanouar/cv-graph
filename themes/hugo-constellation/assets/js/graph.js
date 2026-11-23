@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Fetch graph data from server
         fetchGraphData() {
-            fetch('/data/graph.json')
+            fetch(new URL('data/graph.json', document.baseURI))
                 .then(response => response.json())
                 .then(data => {
                     this.graphData = data;
