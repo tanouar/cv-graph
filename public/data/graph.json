@@ -1,0 +1,430 @@
+
+
+
+{
+  "center": {
+    "id": "person",
+    "name": "Tarik Anouar",
+    "type": "person",
+    "shape": "circle",
+    "image": "/pictures/person.jpg",
+    "subtitle": "Born in 1985",
+    "description": "\u003ch2 id=\"your-content-heading\"\u003eYour Content Heading\u003c/h2\u003e\n\u003cp\u003eData Analyst / Engineer\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e🔭 I’m currently working with Python and Machine Learning\u003c/li\u003e\n\u003cli\u003e🌱 I’m currently learning more about AWS\u003c/li\u003e\n\u003cli\u003e🤔 I’m looking for help with Exploring New Technologies\u003c/li\u003e\n\u003cli\u003e💬 Ask me about any tech-related stuff\u003c/li\u003e\n\u003cli\u003e📫 How to reach me : Email - \u003ca href=\"mailto:anouar.tarik@gmail.com\"\u003eanouar.tarik@gmail.com\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e😄 Pronouns: He/His\u003c/li\u003e\n\u003cli\u003e⚡ Fun fact : I repaired a robot with a lipstick like McGiver\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"project-for-data-science-education\"\u003eProject for data Science education\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://1to1code.com\"\u003e1to1code\u003c/a\u003e : website to present coding education and mentorship.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://learn.1to1code.com\"\u003elearn.1to1code\u003c/a\u003e : A platform for learning coding through personalized mentorship.\u003c/li\u003e\n\u003c/ul\u003e\n"
+  },
+  "nodes": [
+    
+    
+    
+    {
+      "id": "1to1code",
+      "name": "1to1code",
+      "type": "nodes",
+      "shape": "circle",
+      "image": "/pictures/1to1code.png",
+      "subtitle": "Educational Coding Project",
+      "description": "\u003ch2 id=\"1to1code-projects\"\u003e1to1Code Projects\u003c/h2\u003e\n\u003cp\u003e1to1code is a educational platform to learn data-related technologies and skills through personalized, one-on-one coding sessions. It provides learners with the opportunity to gain hands-on experience and receive tailored guidance from experienced instructors.\u003c/p\u003e\n"
+      ,"parent": "project"
+    },
+    
+    {
+      "id": "trainer",
+      "name": "DataTrainer",
+      "type": "nodes",
+      "shape": "hexagon",
+      "image": "",
+      "subtitle": "Data Trainer",
+      "description": "\u003ch2 id=\"data-training\"\u003eData Training\u003c/h2\u003e\n\u003cp\u003eI have overall 5+ years of experience in data training and enjoy designing and delivering training sessions for various audiences. I\u0026rsquo;m also passionate about learning new data technologies and continuously improving my skills.\u003c/p\u003e\n"
+      ,"parent": "person"
+    },
+    
+    {
+      "id": "moviedb",
+      "name": "Marvel Graph",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/marvel.jpg",
+      "subtitle": "Marvel Graph Projects",
+      "description": "\u003ch2 id=\"marvel-graph-projects\"\u003eMarvel Graph Projects\u003c/h2\u003e\n\u003cp\u003eThe Marvel Graph project is a demonstration of a graph database using Marvel characters and their relationships. It showcases how graph databases can efficiently model and query complex networks of interconnected entities. The project allows users to explore the connections between characters, understand their interactions, and gain insights into the Marvel universe through a graph-based perspective.\u003c/p\u003e\n\u003cp\u003eYou\u0026rsquo;ll find the repository for the Marvel Graph project on GitHub, where you can explore the code, understand the implementation details, and try out the graph database demo yourself.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://github.com/tanouar/MoviesDB\"\u003eMarvel Graph GitHub Repository\u003c/a\u003e\u003c/p\u003e\n\u003ch2 id=\"documentation\"\u003eDocumentation\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"https://tanouar.github.io/MoviesDB/\"\u003eMarvel Graph Documentation\u003c/a\u003e\u003c/p\u003e\n"
+      ,"parent": "project"
+    },
+    
+    {
+      "id": "project",
+      "name": "Projects",
+      "type": "nodes",
+      "shape": "octagon",
+      "image": "",
+      "subtitle": "Personal Projects",
+      "description": "\u003ch2 id=\"personal-projects\"\u003ePersonal Projects\u003c/h2\u003e\n\u003cp\u003eI have worked on various personal projects involving hardware and software technologies, often combining both to create innovative solutions. These projects allow me to experiment with new ideas and continuously improve my technical skills.\u003c/p\u003e\n"
+      ,"parent": "person"
+    },
+    
+    {
+      "id": "experience",
+      "name": "Work Experience",
+      "type": "nodes",
+      "shape": "square",
+      "image": "",
+      "subtitle": "Professional Journey",
+      "description": "\u003ch2 id=\"professional-experience\"\u003eProfessional Experience\u003c/h2\u003e\n\u003cp\u003eI have overall 20+ years of experience working with hardware and software technologies and enjoy designing and building random projects for fun. I\u0026rsquo;m also passionate about learning new technologies and continuously improving my skills. Finally, I instruct and mentor others in technical subjects whenever possible; mainly about data-related technologies.\u003c/p\u003e\n"
+      ,"parent": "person"
+    },
+    
+    {
+      "id": "education",
+      "name": "Education",
+      "type": "nodes",
+      "shape": "triangle",
+      "image": "",
+      "subtitle": "Academic Background",
+      "description": "\u003ch2 id=\"educational-background\"\u003eEducational Background\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eData Analyst training from \u003ca href=\"https://liora.io/\"\u003eLiora\u003c/a\u003e (2021)\u003c/li\u003e\n\u003cli\u003eMaster degree engineering from \u003ca href=\"https://www.cesi.fr/\"\u003eCESI\u003c/a\u003e (2013 - 2015)\u003c/li\u003e\n\u003cli\u003eBachelor\u0026rsquo;s degree in Optics and Electronics from \u003ca href=\"https://www.upmc.fr/\"\u003eUPMC\u003c/a\u003e (2006-2007)\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "person"
+    },
+    
+    {
+      "id": "certifications",
+      "name": "Certifications",
+      "type": "nodes",
+      "shape": "triangle",
+      "image": "",
+      "subtitle": "Professional Development",
+      "description": "\u003ch2 id=\"professional-certifications\"\u003eProfessional Certifications\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eDocker ➡️ \u003ca href=\"https://files.datascientest.com/certification/0122224d-4af1-4e4d-863f-860646c51ec9.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eNeo4j Certified Professional ➡️ \u003ca href=\"https://graphacademy.neo4j.com/c/4097e475-07a8-41f7-9464-fd2410ba0b36\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eNeo4j Fundamentals ➡️ \u003ca href=\"https://graphacademy.neo4j.com/c/788c7478-d862-42c1-9034-b3182743d47d\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eNeo4j ➡️ \u003ca href=\"https://files.datascientest.com/certification/3ae29339-01af-47d2-8bd4-2a97eb191e8c.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eElasticsearch ➡️ \u003ca href=\"https://files.datascientest.com/certification/e87f2df5-fb1d-4859-89ac-017d0467d2ac.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eMongoDB ➡️ \u003ca href=\"https://files.datascientest.com/certification/bf4f91c2-a026-4795-9ef4-6d7fbd2eab0b.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eLinux ➡️ \u003ca href=\"https://files.datascientest.com/certification/84ed64ab-c5a6-47f7-87a8-54190554b7a2.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eBusiness Analysis Fundamentals ➡️ \u003ca href=\"https://www.udemy.com/certificate/UC-556a1795-12a6-4c2b-a261-bbc09732cff4/\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eKubernetes Hands on ➡️ \u003ca href=\"https://udemy-certificate.s3.amazonaws.com/pdf/UC-afe957be-5e93-4b18-8e36-d5d781987e93.pdf\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eAnsible Hands on ➡️ \u003ca href=\"https://www.udemy.com/certificate/UC-1733cb61-9159-4a22-b074-fa3f3a4194c0/\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eApache Air Flow Hands on ➡️ \u003ca href=\"https://www.udemy.com/certificate/UC-1733cb61-9159-4a22-b074-fa3f3a4194c0/\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003eDocker Absolute Beginner ➡️ \u003ca href=\"https://www.udemy.com/certificate/UC-23912b0a-8175-41fc-b7f3-b0804ff030b9/\"\u003eCertificate\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "education"
+    },
+    
+    {
+      "id": "skills",
+      "name": "Skills",
+      "type": "nodes",
+      "shape": "pentagon",
+      "image": "",
+      "subtitle": "Technical Expertise",
+      "description": "\u003ch2 id=\"technical-skills\"\u003eTechnical Skills\u003c/h2\u003e\n\u003cp\u003eExperienced with a wide range of technologies across the development stack:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eHardware: Raspberry Pi, Arduino, ESP32, prototyping boards\u003c/li\u003e\n\u003cli\u003ePLCs Automation: Wago, B\u0026amp;R\u003c/li\u003e\n\u003cli\u003eValidation and Testing Hardware: Oscilloscopes, Multimeters, Logic Analyzers\u003c/li\u003e\n\u003cli\u003eDashboarding: Power BI, Tableau, Metabase\u003c/li\u003e\n\u003cli\u003eProgramming Languages: Python\u003c/li\u003e\n\u003cli\u003eFrameworks \u0026amp; Libraries: Spark\u003c/li\u003e\n\u003cli\u003eDatabases: PostgreSQL, MySQL, MongoDB, Neo4j\u003c/li\u003e\n\u003cli\u003eTools: Nano, Gitea, GitHub\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "person"
+    },
+    
+    {
+      "id": "aldebaran",
+      "name": "Aldebaran Robotics",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/aldebaran.png",
+      "subtitle": "Aldebaran Robotics",
+      "description": "\u003ch2 id=\"aldebaran-robotics\"\u003e\u003ca href=\"https://fr.wikipedia.org/wiki/Aldebaran_(robotique)\"\u003eAldebaran Robotics\u003c/a\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eGestion des RMA et support client sur la zone Amérique\u003c/li\u003e\n\u003cli\u003eInstallation d’un support technique et maintenance filiale Inc (Boston, USA) durant 6 mois\u003c/li\u003e\n\u003cli\u003eFormation à la maintenance des techniciens\u003c/li\u003e\n\u003cli\u003eMaintenance sur robot humanoïde\u003c/li\u003e\n\u003cli\u003eMise en place procédures et logistique SAV, Support , GMAO, codification de pannes\u003c/li\u003e\n\u003cli\u003eAnalyses statistique des pannes, taux de retours, indicateurs SAV\u003c/li\u003e\n\u003cli\u003eGestion des RMA et réclamations clients mondiale\u003c/li\u003e\n\u003cli\u003eRelation clients dans un contexte international\u003c/li\u003e\n\u003cli\u003eMaintenance aux compétitions de robotique et déplacements internationaux\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "idemia",
+      "name": "Idemia",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/idemia.jpeg",
+      "subtitle": "Idemia",
+      "description": "\u003ch2 id=\"idemia\"\u003eIdemia\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eRésolution d\u0026rsquo;incidents systèmes et logiciel\u003c/li\u003e\n\u003cli\u003eAssister les clients dans les phases de démarrage de leur système directement sur site\u003c/li\u003e\n\u003cli\u003eFormation des administrateurs\u003c/li\u003e\n\u003cli\u003eMaintenance et audit de systèmes\u003c/li\u003e\n\u003cli\u003eCréation d\u0026rsquo;ETL pour la génération automatique des rapports d\u0026rsquo;audit\u003c/li\u003e\n\u003cli\u003eSupport système API-PNR\u003c/li\u003e\n\u003cli\u003eDocumenter et reproduire les problèmes clients\u003c/li\u003e\n\u003cli\u003eAssurer la maintenance de l\u0026rsquo;infrastructure IT et du backend, incluant le matériel et le logiciel\u003c/li\u003e\n\u003cli\u003eMaintenir une communication régulière avec les clients et les différents stakeholders en assurant ainsi leur satisfaction et une coordination efficace\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "kickmaker",
+      "name": "Kickmaker",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/kickmaker.jpeg",
+      "subtitle": "Kickmaker",
+      "description": "\u003ch2 id=\"kickmaker\"\u003eKickmaker\u003c/h2\u003e\n\u003cp\u003eKickmaker is a European \u0026amp; Asian based industrialization services company. Our community \u0026amp; innovative contracting model propels our partners’ projects to industrial success \u0026amp; brings their prototypes to the shelves.\u003c/p\u003e\n\u003cp\u003eWe are fueled by 3 main beliefs:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eProjects are challenging \u0026amp; talents love challenges\u003c/li\u003e\n\u003cli\u003eHaving a job does not mean giving up one’s projects\u003c/li\u003e\n\u003cli\u003eWe kick at making\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eWe specialize in Robotics, UAVs, Medical Devices, Consumer Electronics \u0026amp; Complex Industrial Products.\nWe leverage an extensive network of suppliers and manufacturers to support startups \u0026amp; larger corporations.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://kickmaker.io/fr/\"\u003ehttps://kickmaker.io/fr/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eMissions :\u003c/p\u003e\n\u003cp\u003e-Project Management\n-Tests \u0026amp; Qualifications on complex systems\n-Automation designer and programmer\u003c/p\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "liora",
+      "name": "Liora",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/liora.png",
+      "subtitle": "Liora",
+      "description": "\u003ch2 id=\"liora\"\u003eLiora\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003ePopularize complex concepts, set goals and give constructive feedback\u003c/li\u003e\n\u003cli\u003eAcademic project management\u003c/li\u003e\n\u003cli\u003eMentor and coach group of students during data projects\u003c/li\u003e\n\u003cli\u003ePersonalized support for learners during their first Data Science project.\u003c/li\u003e\n\u003cli\u003eTechnical guidance on data collection, cleaning, analysis, and visualization.\u003c/li\u003e\n\u003cli\u003eEducational support in collaboration with the teaching team.\u003c/li\u003e\n\u003cli\u003eProject evaluation and constructive feedback.\u003c/li\u003e\n\u003cli\u003eMonitoring learners’ progress and proactive problem-solving.\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "pds",
+      "name": "PDS",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/pds.png",
+      "subtitle": "Plateforme des données de santé",
+      "description": "\u003ch2 id=\"plateforme-des-données-de-santé\"\u003ePlateforme des données de santé\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eWorked as a data engineer and analytics engineer for 2 years.\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "riber",
+      "name": "Riber",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/riber.jpg",
+      "subtitle": "Riber",
+      "description": "\u003ch2 id=\"riber\"\u003eRiber\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eMaintenance sur Cellules, injecteurs sélénium et Chambre d’épitaxie\u003c/li\u003e\n\u003cli\u003eMontage et Installation systèmes : Chambres d’Épitaxie, système de transfert mécanique UHV et injecteur Selenium\u003c/li\u003e\n\u003cli\u003eDéplacement à l\u0026rsquo;internationale (50% du temps)\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "sopra",
+      "name": "Sopra",
+      "type": "nodes",
+      "shape": "square",
+      "image": "",
+      "subtitle": "Sopra",
+      "description": "\u003ch2 id=\"sopra\"\u003eSopra\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eMontage et calibration d\u0026rsquo;ellipsometres et de ellipso-porosimètre\u003c/li\u003e\n\u003cli\u003eInstallation et maintenance International (Japon, USA, Roumanie, UK, etc\u0026hellip;)\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "stago",
+      "name": "Stago",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/stago.jpg",
+      "subtitle": "Stago",
+      "description": "\u003ch2 id=\"stago\"\u003eStago\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eVérification des systèmes et sous-systèmes automatisés\u003c/li\u003e\n\u003cli\u003eEdition du tableau de bord et présentation des KPI techniques avec Power BI aux équipes R\u0026amp;D\u003c/li\u003e\n\u003cli\u003eCréation d\u0026rsquo;ETL en python pour l\u0026rsquo;analyse de capteurs\u003c/li\u003e\n\u003cli\u003eAnalyse statistique de la fiabilité des sous-systèmes, modélisation et calcul MTBF\u003c/li\u003e\n\u003cli\u003eConception et réalisation de bancs d\u0026rsquo;essais\u003c/li\u003e\n\u003cli\u003eInvestigation et résolution des problèmes techniques\u003c/li\u003e\n\u003cli\u003eRédaction des rapports et protocoles\u003c/li\u003e\n\u003cli\u003eSuivie des exigences\u003c/li\u003e\n\u003cli\u003eTest de fiabilités\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    },
+    
+    {
+      "id": "vinci",
+      "name": "Vinci Technologies",
+      "type": "nodes",
+      "shape": "square",
+      "image": "/pictures/vinci.png",
+      "subtitle": "Vinci Technologies",
+      "description": "\u003ch2 id=\"vinci-technologies\"\u003eVinci Technologies\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eManagement des ressources travaux électrique (2 techniciens)\u003c/li\u003e\n\u003cli\u003eAnalyse des cahiers des charges\u003c/li\u003e\n\u003cli\u003eParticipation aux solutions techniques avec le BEM\u003c/li\u003e\n\u003cli\u003eRéalisation de l\u0026rsquo;analyse fonctionnelle et analyse de risque\u003c/li\u003e\n\u003cli\u003eRéalisation de l\u0026rsquo;étude automatisme, nomenclatures et dossier de fabrication\u003c/li\u003e\n\u003cli\u003eValidation avec le client des différentes étapes du projet\u003c/li\u003e\n\u003cli\u003eMise au point en atelier  et logistique de production des coffrets automate et puissance\u003c/li\u003e\n\u003cli\u003eMise en route sur site client\u003c/li\u003e\n\u003cli\u003eFormation du personnel client\u003c/li\u003e\n\u003cli\u003eDéfinition des équations de mesure en fonction des caractéristiques à contrôler\u003c/li\u003e\n\u003cli\u003eRéalisation des AMDEC moyen de production sur machines spéciales\u003c/li\u003e\n\u003c/ul\u003e\n"
+      ,"parent": "experience"
+    }
+    
+  ],
+  "connections": [
+    
+    
+      
+        
+        {
+          "source": "project",
+          "target": "1to1code",
+          "value": "1",
+          "type": "dashed",
+          "label": "Educational Platform"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "person",
+          "target": "trainer",
+          "value": "1",
+          "type": "solid",
+          "label": "5+ years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "project",
+          "target": "moviedb",
+          "value": "1",
+          "type": "dashed",
+          "label": "Graph Database Demo"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "person",
+          "target": "project",
+          "value": "1",
+          "type": "dashed",
+          "label": "Various"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "person",
+          "target": "experience",
+          "value": "1",
+          "type": "solid",
+          "label": "20+ years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "person",
+          "target": "education",
+          "value": "1",
+          "type": "solid",
+          "label": "studied at"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "education",
+          "target": "certifications",
+          "value": "1",
+          "type": "dotted",
+          "label": "earned"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "person",
+          "target": "skills",
+          "value": "1",
+          "type": "solid",
+          "label": "proficient in"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "aldebaran",
+          "value": "1",
+          "type": "solid",
+          "label": "3 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "idemia",
+          "value": "1",
+          "type": "solid",
+          "label": "2 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "kickmaker",
+          "value": "1",
+          "type": "solid",
+          "label": "1 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "liora",
+          "value": "1",
+          "type": "solid",
+          "label": "4 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "pds",
+          "value": "1",
+          "type": "solid",
+          "label": "2 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "riber",
+          "value": "1",
+          "type": "solid",
+          "label": "3 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "sopra",
+          "value": "1",
+          "type": "solid",
+          "label": "1 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "stago",
+          "value": "1",
+          "type": "solid",
+          "label": "5 years"
+        }
+        
+      
+    
+      
+        ,
+        {
+          "source": "experience",
+          "target": "vinci",
+          "value": "1",
+          "type": "solid",
+          "label": "3 years"
+        }
+        
+      
+    
+  ],
+  "visualSettings": {
+    "nodeSize": {
+      "person": 20,
+      "default": 18
+    },
+    "colors": {
+      "person": "#4299e1",
+      "square": "#68d391",
+      "triangle": "#f6ad55",
+      "diamond": "#f687b3",
+      "hexagon": "#9f7aea",
+      "pentagon": "#38b2ac",
+      "octagon": "#805ad5",
+      "default": "#ed8936"
+    }
+  }
+} 

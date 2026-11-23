@@ -1,0 +1,24 @@
+---
+title: "Liora"
+type: "nodes"
+id: "liora"
+shape: "square"
+image: "pictures/liora.png"  # optional, path relative to the assets folder
+parent: "experience"
+subtitle: "Liora"
+weight: 52
+draft: false
+connectionLabel: "4 years"
+connectionType: "solid"
+---
+
+## Liora
+
+- Popularize complex concepts, set goals and give constructive feedback 
+- Academic project management 
+- Mentor and coach group of students during data projects 
+- Personalized support for learners during their first Data Science project. 
+- Technical guidance on data collection, cleaning, analysis, and visualization. 
+- Educational support in collaboration with the teaching team. 
+- Project evaluation and constructive feedback. 
+- Monitoring learners’ progress and proactive problem-solving.

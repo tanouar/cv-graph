@@ -1,0 +1,116 @@
+{
+  "title": "Nodes",
+  "nodes": [
+  
+  
+  
+    {
+      "id": "1to1code",
+      "title": "1to1code",
+      "subtitle": "Educational Coding Project"
+    },
+  
+    {
+      "id": "trainer",
+      "title": "DataTrainer",
+      "subtitle": "Data Trainer"
+    },
+  
+    {
+      "id": "moviedb",
+      "title": "Marvel Graph",
+      "subtitle": "Marvel Graph Projects"
+    },
+  
+    {
+      "id": "project",
+      "title": "Projects",
+      "subtitle": "Personal Projects"
+    },
+  
+    {
+      "id": "person",
+      "title": "Tarik Anouar",
+      "subtitle": "Born in 1985"
+    },
+  
+    {
+      "id": "experience",
+      "title": "Work Experience",
+      "subtitle": "Professional Journey"
+    },
+  
+    {
+      "id": "education",
+      "title": "Education",
+      "subtitle": "Academic Background"
+    },
+  
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "subtitle": "Professional Development"
+    },
+  
+    {
+      "id": "skills",
+      "title": "Skills",
+      "subtitle": "Technical Expertise"
+    },
+  
+    {
+      "id": "aldebaran",
+      "title": "Aldebaran Robotics",
+      "subtitle": "Aldebaran Robotics"
+    },
+  
+    {
+      "id": "idemia",
+      "title": "Idemia",
+      "subtitle": "Idemia"
+    },
+  
+    {
+      "id": "kickmaker",
+      "title": "Kickmaker",
+      "subtitle": "Kickmaker"
+    },
+  
+    {
+      "id": "liora",
+      "title": "Liora",
+      "subtitle": "Liora"
+    },
+  
+    {
+      "id": "pds",
+      "title": "PDS",
+      "subtitle": "Plateforme des données de santé"
+    },
+  
+    {
+      "id": "riber",
+      "title": "Riber",
+      "subtitle": "Riber"
+    },
+  
+    {
+      "id": "sopra",
+      "title": "Sopra",
+      "subtitle": "Sopra"
+    },
+  
+    {
+      "id": "stago",
+      "title": "Stago",
+      "subtitle": "Stago"
+    },
+  
+    {
+      "id": "vinci",
+      "title": "Vinci Technologies",
+      "subtitle": "Vinci Technologies"
+    }
+  
+  ]
+} 

@@ -1,0 +1,23 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Tarik Anouar'
+theme = 'hugo-constellation'
+
+[params]
+  description = "An interactive knowledge graph showcasing my skills, experience, and projects."
+    [params.analytics]
+      provider = "umami"
+      umamiWebsiteId = "204ea557-415d-4cd3-a498-f1b21eee1877"
+      umamiServerUrl = "umami.shashank-sharma.xyz"
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  isPlainText = true
+  notAlternative = true
+  path = "data"
+  baseName = "graph"

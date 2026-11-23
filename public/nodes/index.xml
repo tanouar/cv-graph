@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nodes on My New Hugo Project</title>
+		<link>http://localhost:1313/nodes/</link>
+		<description>Recent content in Nodes on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/nodes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Node Title</title>
+				<link>http://localhost:1313/nodes/person/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/nodes/person/</guid>
+				<description>&lt;h2 id=&#34;your-content-heading&#34;&gt;Your Content Heading&lt;/h2&gt;&#xA;&lt;p&gt;This is the detailed content for this node. It will be displayed in the sidebar when the node is selected.&lt;/p&gt;&#xA;&lt;p&gt;You can include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lists&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bold text&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Italic text&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;And other Markdown features&lt;/li&gt;&#xA;&lt;li&gt;&lt;img src=&#34;http://localhost:1313/images/hello.png&#34; alt=&#34;Image&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>
