@@ -22,17 +22,35 @@
   </url><url>
     <loc>http://localhost:1313/nodes/aldebaran/</loc>
   </url><url>
+    <loc>http://localhost:1313/nodes/ascent/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/git/</loc>
+  </url><url>
     <loc>http://localhost:1313/nodes/idemia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/jedha/</loc>
   </url><url>
     <loc>http://localhost:1313/nodes/kickmaker/</loc>
   </url><url>
     <loc>http://localhost:1313/nodes/liora/</loc>
   </url><url>
+    <loc>http://localhost:1313/nodes/neo4j/</loc>
+  </url><url>
     <loc>http://localhost:1313/nodes/pds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/plb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/pbi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/python/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/regex/</loc>
   </url><url>
     <loc>http://localhost:1313/nodes/riber/</loc>
   </url><url>
-    <loc>http://localhost:1313/nodes/sopra/</loc>
+    <loc>http://localhost:1313/nodes/semilab/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nodes/spark/</loc>
   </url><url>
     <loc>http://localhost:1313/nodes/stago/</loc>
   </url><url>

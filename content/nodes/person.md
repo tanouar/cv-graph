@@ -12,9 +12,7 @@ connectionLabel: "random label" # Optional when trying to connect
 connectionType: "solid"         # dashed or solid
 ---
 
-## Your Content Heading
-
-Data Analyst / Engineer
+## Project Manager and Data Analyst / Engineer
 
 - 🔭 I’m currently working with Python and Machine Learning
 - 🌱 I’m currently learning more about AWS
@@ -24,7 +22,13 @@ Data Analyst / Engineer
 - 😄 Pronouns: He/His
 - ⚡ Fun fact : I repaired a robot with a lipstick like McGiver
 
-## Project for data Science education
+## My project for data Science education
 
 - [1to1code](https://1to1code.com) : website to present coding education and mentorship.
 - [learn.1to1code](https://learn.1to1code.com) : A platform for learning coding through personalized mentorship.
+
+## Freelance profile
+
+You can find my freelance profile on malt, click on picture below:
+
+[![malt profile picture](tarikanouar1-branded-visual.png)](https://www.malt.fr/profile/tarikanouar1)

@@ -65,9 +65,27 @@
     },
   
     {
+      "id": "ascent",
+      "title": "Ascent",
+      "subtitle": "Ascent"
+    },
+  
+    {
+      "id": "git",
+      "title": "Git",
+      "subtitle": "Git"
+    },
+  
+    {
       "id": "idemia",
       "title": "Idemia",
       "subtitle": "Idemia"
+    },
+  
+    {
+      "id": "jedha",
+      "title": "Jedha",
+      "subtitle": "Jedha"
     },
   
     {
@@ -83,9 +101,39 @@
     },
   
     {
+      "id": "neo4j",
+      "title": "Neo4j",
+      "subtitle": "Neo4j"
+    },
+  
+    {
       "id": "pds",
       "title": "PDS",
       "subtitle": "Plateforme des données de santé"
+    },
+  
+    {
+      "id": "plb",
+      "title": "PLB",
+      "subtitle": "PLB"
+    },
+  
+    {
+      "id": "pbi",
+      "title": "Power BI",
+      "subtitle": "Power BI"
+    },
+  
+    {
+      "id": "python",
+      "title": "Python",
+      "subtitle": "Python"
+    },
+  
+    {
+      "id": "regex",
+      "title": "Regex",
+      "subtitle": "Regex"
     },
   
     {
@@ -95,9 +143,15 @@
     },
   
     {
-      "id": "sopra",
-      "title": "Sopra",
-      "subtitle": "Sopra"
+      "id": "semilab",
+      "title": "Semilab",
+      "subtitle": "Semilab"
+    },
+  
+    {
+      "id": "spark",
+      "title": "Spark",
+      "subtitle": "Spark"
     },
   
     {

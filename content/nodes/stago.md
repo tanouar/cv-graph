@@ -3,7 +3,7 @@ title: "Stago"
 type: "nodes"
 id: "stago"
 shape: "square"
-image: "pictures/stago.jpg"  # optional, path relative to the assets folder
+image: "pictures/stago.png"  # optional, path relative to the assets folder
 parent: "experience"
 subtitle: "Stago"
 weight: 52

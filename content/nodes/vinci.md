@@ -3,7 +3,7 @@ title: "Vinci Technologies"
 type: "nodes"
 id: "vinci"
 shape: "square"
-image: "pictures/vinci.png"  # optional, path relative to the assets folder
+image: "pictures/vinci.webp"  # optional, path relative to the assets folder
 parent: "experience"
 subtitle: "Vinci Technologies"
 weight: 52

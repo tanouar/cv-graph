@@ -3,7 +3,7 @@ title: "PDS"
 type: "nodes"
 id: "pds"
 shape: "square"
-image: "pictures/pds.png"  # optional, path relative to the assets folder
+image: "pictures/pds.webp"  # optional, path relative to the assets folder
 parent: "experience"
 subtitle: "Plateforme des données de santé"
 weight: 52
